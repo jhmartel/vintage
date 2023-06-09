@@ -1,17 +1,20 @@
-# vintage
-How to Sell Vintage: Matchmaking Generators
 
-# Disclaimer: The opinions and perspectives expressed herein are those of the author at JHM LABS. We speak freely, as we allow all peoples everywhere to express what seems good and profitable before all. 
+
+# *How to Sell Vintage Clothing with Generative Matchmaking*
+
+Our goal is to sell items and find buyers. Basically serve as matchmaker for clothing items and buyers. 
 
 We have an idea here, born from experience in my own personal search for quality used men's clothing. 
 There is large market of vintage sellers, who mainly focus on women's clothing. This is because of many "environmental" supply factors. In our opinion a new strategy needs be provided or attempted to expand their markets and sell to men.
 We experienced many shops in Calgary, specifically, which did not have any men's selection. So here is opportunity. 
 
-Remark. There is another strategy among vintage shops to market their clothing as "unisexual". But we think this will have inherent limitations in expanding the number of male buyers. We must be forgiven that this memo is based on a chauvinist strategy, again based on experience. 
-
 Here is the outline of the whole idea:
 
-In vintage clothing market there are big gaps between supply and demand, i.e. the supply of quality used clothing acquired by the vintage sellers, and the demand of the buyers market. In this memo we are specifically interested in *male buyers*. Here specifically the gap is largest. The popular idiom is that "men hate shopping". And yes, they do. They do not want to waste their time searching through random racks for items that may or may not be there, which may or may not fit, etc.. Other people find this part of vintage hunting fun, but our working assumption is that the majority of men do not enjoy this.
+In vintage clothing market there are big gaps between supply and demand, i.e. the supply of quality used clothing acquired by the vintage sellers, and the demand of the buyers market. 
+
+In this memo we are specifically interested in *male buyers*. Here specifically the gap is largest. The popular idiom is that "men hate shopping". And yes, they do. They do not want to waste their time searching through random racks for items that may or may not be there, which may or may not fit, etc.. 
+
+Other people find this part of vintage hunting fun, but our working assumption is that the majority of men do not enjoy this. This makes for barrier between male buyers and the vintage stores. Our goal is to be matchmakers, and connect the market. Men *want* to look good, and vintage shops are *able* to make them look good. This is our objective.
 
 Men are judgemental and mission oriented. So they want to immediately be catered to. In and out. A client shows up, with a profile, with some portfolio for their style, and you have to generate matchings for them from the available stockpile supply. 
 
