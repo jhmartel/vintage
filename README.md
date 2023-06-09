@@ -18,15 +18,17 @@ Men are judgemental and mission oriented. So they want to immediately be catered
 # Statement of Problem
 
 In the vintage problem we want to construct and generate the utility or preference pairings $b(x,y)$ between item $x$ and buyer $y$. I.e., we look to predict whether the buyer will be hot or cold towards the item. Will the client have a disposition, with some probability reflected in $b(x,y)$, to trade scarce resources for the item?
+Basically the vintage seller has a supply $X$, which is not well known and very opaque to the buyers $Y$. A buyer $y$ walks into the store, they have a null feeling to mostly everything except they react to the mannequins, etc.. The buyer has no sense of the client's preferences. The buyer did not even know this buyer exists before they physically walk into the store.
 
-Basically the vintage seller has a supply $X$, which is not well known and very opaque to the buyers $Y$. The problem is to generate a priori, to predict, the client's preference $b(x,y)$ towards the item. 
 
 The standard model for vintage storefront is: you have random clothes in racks, you expect buyers to show up on location, search through the racks, identify an item which appeals to them which they are willing to purchase at the market price. There appears to us many potential "points of failure" in the chain of sale.
 
 We think that men specifically want a customized mannequin, they want the vintage store to dress the mannequin completely in outfits and ensembles which appeal to the preferences of the buyer. Is it too much to ask?
 
 
-Instagram is filled with girls who pick and sell vintage clothing. Here "vintage" could mean a premium literally "vintage" limited edition shirt, or vintage could mean a quality used clothing item which typically is not in production anymore. These sellers have a large supply of clothing, i.e. large stockpile. They pick from huge random bins alongside other pickers, and it's not at all clear what's going to sell. 
+Instagram is filled with girls who pick and sell vintage clothing. Here "vintage" could mean a premium literally "vintage" limited edition shirt, or vintage could mean a quality used clothing item which typically is not in production anymore. These sellers have a large supply of clothing, i.e. large stockpile. They pick from huge random bins alongside other pickers, and it's not at all clear what's going to sell. And who are they picking for?
+
+This is a direct question to ask: do vintage stores pick clothes with the *hope* that the item is going to sell, with the hope that the right person is going to walk through the door and fall in love with it? We can do better.
 
 
 
