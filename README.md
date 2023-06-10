@@ -35,6 +35,16 @@ Instagram is filled with girls who pick and sell vintage clothing. Here "vintage
 
 This is a direct question to ask: do vintage stores pick clothes with the *hope* that the item is going to sell, with the hope that the right person is going to walk through the door and fall in love with it? We can do better.
 
+# Abstract Formulation
+
+We are given measures $\sigma, \tau$ on the supply $X$ and buyers $Y$, respectively. This means we don't have precise pointwise knowledge about $X,Y$, but rather measurable ("probabilistic") information.
+
+We assume/postulate/hypothesize the existence of a reasonable stable preference pairing $$b: X\times Y \to \bf{R}.$$ This measures the "temperature" $b(x,y)$ of a buyer $y$ towards an item $x$. Naively we want to maximize the temperature, and emphasize (i.e. market, target, upsell) those items which make the client "warm". 
+
+But the challenge is to generate this temperature, and to know the temperature with some confidence before the buyer walks into the store and sees the item!
+
+
+
 
 
 
