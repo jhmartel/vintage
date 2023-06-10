@@ -2,23 +2,33 @@
 
 # *How to Sell Vintage Clothing with Generative Matchmaking*
 
+The vintage clothing market suffers from a large gap between supply and demand, especially with respect to quality *men's* clothing as we explain below. 
+
 Our goal is to sell items and find buyers. Basically serve as matchmaker for clothing items and buyers. 
 We have an idea here, born from experience in my own personal search for quality used men's clothing. 
 There is large market of vintage sellers, who mainly focus on women's clothing. 
-In our opinion a distinct strategy needs be provided or attempted to expand their markets to male buyers.
 We experienced many shops in Calgary, specifically, which did not have any men's selection. So here is opportunity. 
+In our opinion a distinct strategy needs be provided or attempted to expand their markets to male buyers.
 
 Here is the outline:
 
-In vintage clothing market there are big gaps between supply and demand, i.e. the supply of quality used clothing acquired by the vintage sellers and the demand of the buyers market. 
+Again the vintage clothing market has gaps between supply and demand, namely the supply of quality used clothing acquired by the vintage sellers and the demand of the buyers market. 
 
-In this memo we are specifically interested in *male buyers*. Here specifically the gap is largest. The popular idiom is that "men hate shopping". And yes, they do. They do not want to waste their time searching through random racks for items that may or may not be there, which may or may not fit, etc.. 
+In this memo we are specifically interested in *male buyers*. Here specifically the gap is largest. The popular idiom is that "men hate shopping". 
+
+And yes, they do. But why? There is a psychological element here which we examine. Basically men are mission oriented and very judgemental. 
+
+They do not want to waste their time searching through random racks for items that may or may not be there, which may or may not fit, at this or that price, etc.. 
 
 Other people find this part of vintage hunting fun, but our working assumption is that the majority of men do not enjoy this. This makes for barrier between male buyers and the vintage stores. 
 
 Our goal is to be matchmakers, and connect the market. Men *want* to look good, and vintage shops are *able* to make them look good. This is our objective.
 
-Men are judgemental and mission oriented. So they want to immediately be catered to. In and out. A client shows up, with a profile, with some portfolio for their style, and you have to generate matchings for them from the available stockpile supply. *Basically you have to know what the client wants before they show up!* And this is possible.
+Men are judgemental and mission oriented. So they want to immediately be catered to. In and out. A client shows up, with a profile, with some portfolio for their style, and you have to generate matchings for them from the available stockpile supply. 
+
+*Basically you have to know what the client wants before they show up!* 
+
+And here enters the opportunity for a generative model.
 
 # Statement of Problem
 
