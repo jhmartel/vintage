@@ -41,7 +41,11 @@ We are given measures $\sigma, \tau$ on the supply $X$ and buyers $Y$, respectiv
 
 We assume/postulate/hypothesize the existence of a reasonable stable preference pairing $$b: X\times Y \to \bf{R}.$$ This measures the "temperature" $b(x,y)$ of a buyer $y$ towards an item $x$. Naively we want to maximize the temperature, and emphasize (i.e. market, target, upsell) those items which make the client "warm". 
 
-But the challenge is to generate this temperature, and to know the temperature with some confidence before the buyer walks into the store and sees the item!
+But the challenge is to generate this temperature, and to know the temperature with some confidence before the buyer walks into the store and sees the item! The problem here is *generating the preference function* given *new* supply (new finds $x$) and *new* buyers. 
+
+# Parameters
+Here enters the quantitative part and this is more difficult. 
+*What are the relevant numerical statistics in the vintage problem?*
 
 
 
